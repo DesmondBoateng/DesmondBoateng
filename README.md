@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DesmondBoateng
 - 👀 I’m interested in Data Science, Machine Intelligence.
-- 🌱 I’m currently learning for a Master's degree in Mathematical Sciences. 
+- 🌱 I’m a recent graduate from the African Institute for Mathematical Sciences, Rwanda. 
 - 💞️ I’m looking to collaborate on projects relating to data science and machine intelligence. 
 - 📫 How to reach me via email: desmond.boateng@aims.ac.rw
 
